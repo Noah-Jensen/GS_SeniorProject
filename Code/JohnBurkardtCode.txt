@@ -1,1 +1,11 @@
 The code written by John Burkardt and necessary to run multiple programs in this repository is located here: https://people.math.sc.edu/Burkardt/m_src/polyominoes/polyominoes.html
+
+The programs needed are: 
+
+polyomino_lp_write.m
+
+cplex_solution_read.m
+cplex_solution_single_read.m
+cplex_solution_multiple_read.m
+timestamp.m
+xml2struct.m
