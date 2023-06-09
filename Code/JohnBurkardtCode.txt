@@ -2,8 +2,10 @@ The code written by John Burkardt and necessary to run multiple programs in this
 
 The programs needed are: 
 
+Located on the page: CPLEX_SOLUTION_READ
 polyomino_lp_write.m
 
+Located on the page: POLYOMINO_LP_WRITE
 cplex_solution_read.m
 cplex_solution_single_read.m
 cplex_solution_multiple_read.m
